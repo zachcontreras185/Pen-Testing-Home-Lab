@@ -11,10 +11,10 @@ The Pen Testing Home Lab project aimed to establish a controlled environment for
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-- Oracle VirtualBox for the management and creation of the virtual machines.
+- Oracle VirtualBox for the management and creation of the virtual machines
 - Windows Server 2025 as the server manager OS
 - Ubuntu Linux as a user machine and security machine
-- Kali Linux as an attacker machine.
+- Kali Linux as an attacker machine
 
 ## Screenshots
 
